@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: e792b43877dbda5458f32fd0afe8c068
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Alien Encounters Solid
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 968066000b1de4e4e82eb1b4d5bd81cd, type: 3}
+  - {fileID: 12800000, guid: 441c80e9d851c174490cc4cbb14da5c2, type: 3}
+  - {fileID: 12800000, guid: 21bb8e67749eff8438ba29bbbf94eb14, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

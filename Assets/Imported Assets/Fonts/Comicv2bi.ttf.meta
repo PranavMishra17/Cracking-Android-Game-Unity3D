@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: f69877730d4a45e4f9f095cd01334b4a
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Comic Book Commando Bold
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 93a84ce52de7f944b80587f70d505450, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

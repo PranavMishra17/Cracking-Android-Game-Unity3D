@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: aee8a48f776617642a74b59e988007cf
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - advent
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: aaa119699813c4c4987e95ae172fee56, type: 3}
+  - {fileID: 12800000, guid: 073a5da9c525be4488fb2d16b5d362e2, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

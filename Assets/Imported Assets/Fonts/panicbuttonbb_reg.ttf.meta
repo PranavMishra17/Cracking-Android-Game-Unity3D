@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 9e93ee1f3f7c442409d03619c8812583
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - PanicButton BB
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 53b66de4dc5c2264b8d0b754c8c9a6fa, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

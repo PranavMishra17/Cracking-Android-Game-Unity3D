@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: bb5d2c2d87b4a56408d23294a6159767
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Buran USSR
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 54a27f88e26039945b33a4368b62216e, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
