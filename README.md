@@ -6,3 +6,5 @@ Certain files, which were greater than 100 mb could not be uploaded on GitHub. T
 
 ## Gameplay
 https://youtu.be/Za-9WKnd1gA
+
+A mobile rail shooter game developed in Unity with limited level running. It includes a leaderboard and in-game achievements integrated with the Google Play Store, offering a competitive and engaging player experience.
